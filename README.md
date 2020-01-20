@@ -3,9 +3,9 @@
 <p align="justify">
   
 ## README repository
-* `quality_charter.pdf`: quality charter used during the project. Please note that `python 3.6` or later version is required. The charter is widely based on PEP 8 rules for Python code, and contains as well some SQL specifications;
+* `groups_description.pdf`: description of all groups, with teams composition, subjects presentation, and specifications;
 * `data_dictionary.pdf`: description of all data provided by Airbus / Sogeclair;
-* `groups_description.pdf`: description of all groups, with teams composition, subjects presentation, and specifications.
+* `quality_charter.pdf`: quality charter used during the project. Please note that `python 3.6` or later version is required. The charter is widely based on PEP 8 rules for Python code, and contains as well some SQL specifications.
 
 &nbsp;
 ## Groups repositories
@@ -22,7 +22,7 @@ In https://github.com/interpromoSID2020Airbus you will find the repositories sub
 
 &nbsp;
 ## Contributors
-All students of CMI SID (2020 school year) http://departement-math.univ-tlse3.fr/master-sid-big-data-716317.kjsp.
+All students of Toulouse Paul Sabatier University CMI SID (2020 school year) http://departement-math.univ-tlse3.fr/master-sid-big-data-716317.kjsp.
 
 &nbsp;
 
