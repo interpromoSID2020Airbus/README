@@ -15,10 +15,13 @@ In https://github.com/interpromoSID2020Airbus you will find the repositories sub
 * Group 3: dashborad
 * Group 4: textual analysis
 * Group 5: prediction 1 (comfort characteristics)
-* Group 6: prediction 2
+* Group 6: prediction 2 (cleanliness, queuing time, and others)
 * Group 7: social images
 * Group 8: cabin images
 * Group 9: chatbot (innovation)
+
+
+Please note that due to GitHub file size limitations, some files will be handed in separately.
 
 &nbsp;
 ## Contributors
